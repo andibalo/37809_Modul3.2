@@ -89,6 +89,8 @@ dependencies {
     implementation "androidx.core:core-ktx:1.15.0"
     implementation "com.google.android.material:material:1.12.0"
 
+    implementation "androidx.navigation:navigation-compose:2.8.8"
+
     // Compose
     implementation "androidx.compose.runtime:runtime"
     implementation "androidx.compose.ui:ui"
